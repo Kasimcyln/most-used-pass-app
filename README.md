@@ -40,4 +40,4 @@ MostUsedPassword, en çok kullanılan şifrelerin listelendiği ve kullanıcıla
 
 1. **Depoyu Klonlayın:**
    ```bash
-   git clone https://github.com/kullanici-adi/MostUsedPassword.git
+   https://github.com/Kasimcyln/most-used-pass-app.git
