@@ -1,7 +1,5 @@
 # MostUsedPassword
 
-![Logo](images/pass.png)
-
 MostUsedPassword, en çok kullanılan şifrelerin listelendiği ve kullanıcıların güvenli şifreler seçmelerine yardımcı olan basit bir Android uygulamasıdır. Uygulama, MVVM mimarisi ve Clean Architecture prensiplerine uygun olarak geliştirilmiştir. Jetpack Compose kullanılarak modern ve etkileyici bir kullanıcı arayüzü sunulmaktadır.
 
 ## 📱 Ekran Görüntüleri
@@ -10,7 +8,7 @@ MostUsedPassword, en çok kullanılan şifrelerin listelendiği ve kullanıcıla
 ![Splash Screen](images/splash.png)
 
 ### Ana Ekran
-![Main Screen](images/main.png)
+![Main Screen](images/pass.png)
 
 ## 🚀 Özellikler
 
