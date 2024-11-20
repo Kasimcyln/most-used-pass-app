@@ -12,7 +12,7 @@ MostUsedPassword, en çok kullanılan şifrelerin listelendiği ve kullanıcıla
 
 ## 🚀 Özellikler
 
-- **Güvenli Şifre Listesi:** En çok kullanılan şifrelerin listelenmesi.
+- **Güvensiz Şifre Listesi:** En çok kullanılan şifrelerin listelenmesi.
 - **Arama Fonksiyonu:** Kullanıcıların şifreler arasında arama yapabilmesi.
 - **Animasyonlu Splash Screen:** Uygulama başlatıldığında görsel animasyonlarla hoş bir geçiş.
 - **Temiz ve Modern UI:** Jetpack Compose ile oluşturulmuş kullanıcı dostu arayüz.
